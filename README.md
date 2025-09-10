@@ -9,8 +9,11 @@ High score saved in file
 Handles invalid inputs gracefully
 
 #*How to Run*
-git clone https://github.com/Divyuu-creator/number-guessing-game.git
-cd number-guessing-game
+</br>
+git clone https://github.com/Divyuu-creator/GuessTheNumber.git
+cd GuessTheNumber
+
 
 #Run the script
+</br>
 GuessTheNumber.py
