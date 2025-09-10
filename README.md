@@ -3,7 +3,6 @@ A simple yet polished Python project where the computer picks a secret number an
 </br>
 
 🚀 Features
-
 </br>
 Difficulty levels (Easy/Medium/Hard)
 </br>
