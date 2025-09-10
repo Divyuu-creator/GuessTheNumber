@@ -14,12 +14,13 @@ High score saved in file
 </br>
 Handles invalid inputs gracefully
 
-#*How to Run*
-</br>
-git clone https://github.com/Divyuu-creator/GuessTheNumber.git
-cd GuessTheNumber
+## 📂 How to Run  
 
-
-#Run the script
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/Divyuu-creator/GuessTheNumber.git
+   cd GuessTheNumber
+   
+2. Run the script
 </br>
 python GuessTheNumber.py
